@@ -10,6 +10,6 @@ public class Program {
     }
 
     public void run(){
-        System.out.printf("Running %s", name);
+        System.out.printf("Starting %s", name);
     }
 }
